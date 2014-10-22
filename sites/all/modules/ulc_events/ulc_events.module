@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ULC_Events feature.
+ */
+
+include_once 'ulc_events.features.inc';
