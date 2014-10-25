@@ -1,0 +1,34 @@
+/**
+ * @file
+ * Custom CSS for Lutheran Church theme	
+ * 
+ */
+
+#featured {
+	text-align: left;
+	font-size: 1em;
+	padding: 20px 0px 20px;
+}
+
+
+
+/*
+ * Featured Event View
+ * 
+ */
+#block-views-featured-event-block {
+}
+#block-views-featured-event-block .views-field-field-add-image {
+	float: left;
+	padding: 0 10px 10px 0;
+}
+#block-views-featured-event-block .views-field-title {
+	font-size: 32px;
+}
+#block-views-featured-event-block .views-field-field-date-of-event {
+	font-size: 24px;
+	padding: 10px 0;
+}
+#block-views-featured-event-block .views-field-body {	
+	font-size: 16px;
+}
