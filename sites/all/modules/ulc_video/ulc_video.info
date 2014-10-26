@@ -1,0 +1,11 @@
+name = Video
+core = 7.x
+package = Features
+dependencies[] = ctools
+dependencies[] = ctools_custom_content
+dependencies[] = panels_mini
+features[ctools][] = ctools_custom_content:ctools_content:1
+features[ctools][] = panels_mini:panels_default:1
+features[ctools_custom_content][] = marketing_video
+features[features_api][] = api:2
+features[panels_mini][] = sidebar_video_block

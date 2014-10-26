@@ -6,7 +6,7 @@
 		    $(this).attr({
 		        "src" : url.replace('?rel=0', '')+"?wmode=transparent",
 		        "wmode" : "Opaque"
-		    }).width("480");
+		    }).width("220");
 		});
 
 	}, 200);

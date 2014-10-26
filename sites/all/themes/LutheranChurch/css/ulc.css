@@ -32,3 +32,14 @@
 #block-views-featured-event-block .views-field-body {	
 	font-size: 16px;
 }
+
+
+/*
+ * Sidebar Video Block
+ * 
+ */
+#block-panels-mini-sidebar-video-block {
+}
+.sidebar #block-panels-mini-sidebar-video-block.block {
+	padding: 0px;
+}
